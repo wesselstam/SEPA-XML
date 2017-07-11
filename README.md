@@ -15,7 +15,7 @@ $ composer require wesselstam/sepa-xml
 ## Example
 
 ```php
-use WesselStam\SepaXML;
+use WesselStam\SepaXML\SepaXML;
 
 // create instance
 $oSEPA = new SepaXML();
