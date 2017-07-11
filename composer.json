@@ -1,0 +1,30 @@
+{
+  "name": "wesselstam/sepa-xml",
+  "type": "library",
+  "description": "SepaXML is a class that converts your direct debit information to PAIN.008.001.02 XML files.",
+  "homepage": "https://github.com/wesselstam/SEPA-XML",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Wessel Stam",
+      "email": "info@wesselstam.nl",
+      "role": "Developer"
+    },
+    {
+      "name": "Mark Hameetman",
+      "email": "mark@bureaupartners.nl"
+    },
+    {
+      "name": "Rein Schaap",
+      "email": "info@reinschaap.nl"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "WesselStam\\SepaXML\\": "src"
+    }
+  }
+}
