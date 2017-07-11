@@ -9,7 +9,7 @@ SepaXML is a class that converts your direct debit information to PAIN.008.001.0
 The recommended installation way is through [Composer](https://getcomposer.org).
 
 ```bash
-$ composer require wesselstam/sepa-xml
+$ composer require wesselstam/sepa-xml dev-master
 ```
 
 ## Example
